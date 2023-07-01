@@ -1,2 +1,2 @@
 # moviesMart
-MERN Project
+This Project is Majorly Made With NodeJs , EJS templating , mongoDb 
